@@ -1,2 +1,2 @@
-# Open-Source-RL
+# Open Source Reinforcement Learning
 The List of Open Source Reinforcement Learning
